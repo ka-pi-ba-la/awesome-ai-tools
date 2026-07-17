@@ -1,0 +1,42 @@
+AI 原住民导航公开数据与工具许可
+
+数据许可
+--------
+
+本仓库对导航目录的选择、编排以及原创展示文案采用 Creative Commons
+Attribution 4.0 International（CC BY 4.0）许可：
+https://creativecommons.org/licenses/by/4.0/
+
+使用或再发布本仓库数据时，请注明来源为“AI 原住民导航”，并保留本仓库链接。
+
+代码许可
+--------
+
+本仓库中的校验脚本采用 MIT License：
+
+Copyright (c) 2026 web3a8
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+第三方权利
+----------
+
+被收录网站的名称、商标、服务标识及其页面内容归各自权利人所有，不属于
+上述许可范围。本仓库不托管被收录网站的截图、Logo 或其他第三方媒体资源。
+

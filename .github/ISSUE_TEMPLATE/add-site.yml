@@ -1,0 +1,40 @@
+name: 提交网站
+description: 推荐一个适合收录到 AI 原住民导航的网站
+title: "[新增网站] "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 网站名称
+      placeholder: 请输入正式名称
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 网站 URL
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: 建议分类
+      placeholder: 例如：AI智能体 / 智能体平台
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: 网站简介
+      description: 请说明网站的主要用途和适用人群
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: 提交确认
+      options:
+        - label: 我已确认该 URL 可以正常访问，且提交内容真实准确
+          required: true
+
