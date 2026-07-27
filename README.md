@@ -6,6 +6,7 @@
 <!-- AUTO-GENERATED-CONTENT:START -->
 ## 分类目录
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [AI智能体（85）](#category-1)
 - [办公效率（247）](#category-2)
 - [AI写作（127）](#category-3)
