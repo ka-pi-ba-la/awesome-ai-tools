@@ -5090,6 +5090,11 @@
 <td><a href="https://hao.withai.homes/sites/character-ai-1759/"><kbd>了解更多</kbd></a></td>
 </tr>
 <tr>
+<td><a href="https://wsupai.app/">WSUP AI</a></td>
+<td>浏览器内免费 AI 角色聊天，无需注册，仅限 SFW</td>
+<td><a href="https://wsupai.app/"><kbd>了解更多</kbd></a></td>
+</tr>
+<tr>
 <td><a href="https://amz123.com/chat/amz123">Chat123</a></td>
 <td>跨境智能聊天机器人，轻松解决出海难题</td>
 <td><a href="https://hao.withai.homes/sites/chat123-1760/"><kbd>了解更多</kbd></a></td>
