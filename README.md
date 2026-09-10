@@ -2932,6 +2932,11 @@
 <td><a href="https://hao.withai.homes/sites/neural4d-977/"><kbd>了解更多</kbd></a></td>
 </tr>
 <tr>
+<td><a href="https://photorealistic-ai.com/zh">Photoreal AI</a></td>
+<td>浏览器里做已有照片的二次编辑：局部重绘、换背景、去水印、修复和放大</td>
+<td><a href="https://photorealistic-ai.com/zh"><kbd>了解更多</kbd></a></td>
+</tr>
+<tr>
 <td><a href="https://style3d.ai">Style3D</a></td>
 <td>用人工智能将服装草图转为3D模型</td>
 <td><a href="https://hao.withai.homes/sites/style3d-979/"><kbd>了解更多</kbd></a></td>
