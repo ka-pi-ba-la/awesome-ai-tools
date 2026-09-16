@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "site_count": 1342,
+  "site_count": 1343,
   "category_count": 16,
   "categories": [
     {
@@ -14860,11 +14860,11 @@
     },
     {
       "name": "综合导航",
-      "site_count": 7,
+      "site_count": 8,
       "subcategories": [
         {
           "name": "工具合集",
-          "site_count": 1,
+          "site_count": 2,
           "sites": [
             {
               "name": "Toolscout",
@@ -14876,6 +14876,17 @@
                 "人工智能工具"
               ],
               "detail_url": "https://hao.withai.homes/sites/toolscout-2288/"
+            },
+            {
+              "name": "AI Tools Radar",
+              "url": "https://aitoolsradar.com",
+              "description": "AI工具导航与产业资讯平台，帮助发现、比较和追踪AI产品，并提供每日AI行业资讯",
+              "tags": [
+                "AI工具导航",
+                "产品发现",
+                "行业资讯"
+              ],
+              "detail_url": "https://aitoolsradar.com"
             }
           ]
         },
