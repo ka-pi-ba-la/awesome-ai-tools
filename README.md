@@ -3679,10 +3679,15 @@
 </tbody>
 </table>
 
-### 绘画生成（44）
+### 绘画生成（45）
 
 <table>
 <tbody>
+<tr>
+<td><a href="https://raphael.app">Raphael</a></td>
+<td>免费 AI 图像生成器，支持文生图、编辑与创意工作流</td>
+<td><a href="https://raphael.app"><kbd>了解更多</kbd></a></td>
+</tr>
 <tr>
 <td><a href="https://picdoc.cn">PicDoc</a></td>
 <td>用AI将文本一键转化为科研、办公所需的多种可视化图表，支持高清无水印导出</td>
