@@ -2466,6 +2466,25 @@
 <td>短视频内容运营与直播电商数据分析平台</td>
 <td><a href="https://hao.withai.homes/sites/chanmama-2976/"><kbd>了解更多</kbd></a></td>
 </tr>
+<tr>
+<td><a href="https://kdafirestarterai.dev">KDA Firestarter AI Dance</a></td>
+<td>独立非官方 AI：一张照片→13s 480p 21:9 独舞视频（Paid $7.99 起；与 Riot/K/DA 无关）</td>
+</tr>
+<tr>
+<td><a href="https://a2oliteai.org">A2O LITE NEON AI Dance</a></td>
+<td>独立 AI：两张照片→15s 霓虹双人舞 + 参考配乐（Paid $7.99 起）</td>
+</tr>
+<tr>
+<td><a href="https://dimedimebabyai.dev">dime dime baby ai</a></td>
+- <a href="https://promptimage.cloud" target="_blank">PromptImage</a> - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- <a href="https://teslawraps.design" target="_blank">TeslaWraps</a> - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credits. Freemium
+- <a href="https://grokvideogenerator.dev" target="_blank">GrokVideo Studio</a> - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official xAI or X product
+- <a href="https://alorsondansevideo.com" target="_blank">Alors On Danse Video Maker</a> - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- <a href="https://badtimesai.dev" target="_blank">Bad Times AI</a> - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- <a href="https://ifoundyouinthecrowdai.com" target="_blank">I Found You in the Crowd AI</a> - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+<td>独立 AI：一张照片→约5s 9:16 AI 舞蹈（Quince Classic/Party Groove；Paid $7.99 起）</td>
+</tr>
+
 </tbody>
 </table>
 
