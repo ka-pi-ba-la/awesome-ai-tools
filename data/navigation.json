@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "site_count": 1342,
+  "site_count": 1343,
   "category_count": 16,
   "categories": [
     {
@@ -11406,7 +11406,7 @@
     },
     {
       "name": "企业服务",
-      "site_count": 88,
+      "site_count": 89,
       "subcategories": [
         {
           "name": "人力招聘",
@@ -11619,7 +11619,7 @@
         },
         {
           "name": "数据分析",
-          "site_count": 4,
+          "site_count": 5,
           "sites": [
             {
               "name": "OSSInsight",
@@ -11664,6 +11664,18 @@
                 "科创数据"
               ],
               "detail_url": "https://hao.withai.homes/sites/xiniudata-61/"
+            },
+            {
+              "name": "DisconfirmAI / 证伪AI",
+              "url": "https://disconfirmai.com/zh",
+              "description": "面向投资研究的证伪优先阅读与研究平台，先找可能推翻观点的反面证据，再建立确信。提供公开信源阅读、财报与数据研究、条件雷达与个人投资框架。",
+              "tags": [
+                "投资研究",
+                "证伪",
+                "金融科技",
+                "阅读"
+              ],
+              "detail_url": "https://disconfirmai.com/zh"
             }
           ]
         },
