@@ -7405,3 +7405,4 @@
 
 如果您有好用的工具推荐，欢迎提交issue
 <!-- AUTO-GENERATED-CONTENT:END -->
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
