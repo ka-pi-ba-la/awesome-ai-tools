@@ -2237,6 +2237,17 @@
 <td><a href="https://hao.withai.homes/sites/aidaxue-2810/"><kbd>了解更多</kbd></a></td>
 </tr>
 <tr>
+<td><a href="https://cyanvid.com/?utm_source=ka-pi-ba-la-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks">Cyanvid</a></td>
+<td>AI视频生成器，支持文生视频/图生视频，生成前展示积分报价</td>
+<td>免费额度+订阅</td>
+</tr>
+<tr>
+<td><a href="https://barzvideo.com/?utm_source=ka-pi-ba-la-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks">Barz Studio</a></td>
+<td>浏览器端说唱歌词视频编辑器，节拍联动字幕，免费可用</td>
+<td>免费+Pro</td>
+</tr>
+
+<tr>
 <td><a href="https://le.ouchn.cn/searchCourseList">国家终身教育平台</a></td>
 <td>免费学习AI绘画、大模型训练等课程，覆盖广泛教育资源</td>
 <td><a href="https://hao.withai.homes/sites/le-ouchn-2814/"><kbd>了解更多</kbd></a></td>
