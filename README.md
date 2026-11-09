@@ -771,7 +771,7 @@
 </tbody>
 </table>
 
-### 报告研报（6）
+### 报告研报（7）
 
 <table>
 <tbody>
@@ -804,6 +804,11 @@
 <td><a href="https://index.datastory.com.cn/social-research">数说</a></td>
 <td>依托人工智能分析全域社媒数据，提供从数据到洞察决策的全链路支持</td>
 <td><a href="https://hao.withai.homes/sites/index-datastory-524/"><kbd>了解更多</kbd></a></td>
+</tr>
+<tr>
+<td><a href="https://earlylore.com/">EarlyLore</a></td>
+<td>帮助创始人对照真实竞品、需求信号与切入点，在动手前验证产品想法</td>
+<td><a href="https://earlylore.com/"><kbd>了解更多</kbd></a></td>
 </tr>
 </tbody>
 </table>
