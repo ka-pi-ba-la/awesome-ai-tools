@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "site_count": 1342,
+  "site_count": 1343,
   "category_count": 16,
   "categories": [
     {
@@ -4412,11 +4412,11 @@
     },
     {
       "name": "AI视频",
-      "site_count": 91,
+      "site_count": 92,
       "subcategories": [
         {
           "name": "短剧漫剧",
-          "site_count": 13,
+          "site_count": 14,
           "sites": [
             {
               "name": "MOKI",
@@ -4559,6 +4559,18 @@
                 "网络剧"
               ],
               "detail_url": "https://hao.withai.homes/sites/mp-v-qq-2736/"
+            },
+            {
+              "name": "光梦 AlphaDrama",
+              "url": "https://www.getalphadrama.com/",
+              "description": "AI短剧与漫剧全流程智能创作SaaS平台，支持小说拆解、剧本改写、角色资产提取、分镜生图生视频与自动混剪（国内镜像 ad.yosweet.cn）",
+              "tags": [
+                "AI短剧",
+                "AI漫剧",
+                "剧本分镜",
+                "AI视频"
+              ],
+              "detail_url": "https://www.getalphadrama.com/"
             }
           ]
         },

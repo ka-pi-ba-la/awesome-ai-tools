@@ -9,7 +9,7 @@
 - [AI办公（195）](#category-1)
 - [AI写作（109）](#category-2)
 - [AI编程（85）](#category-3)
-- [AI视频（91）](#category-4)
+- [AI视频（92）](#category-4)
 - [AI绘画（244）](#category-5)
 - [设计创意（70）](#category-6)
 - [AI音频（46）](#category-7)
@@ -2131,9 +2131,9 @@
 
 <a id="category-4"></a>
 
-## AI视频（91）
+## AI视频（92）
 
-### 短剧漫剧（13）
+### 短剧漫剧（14）
 
 <table>
 <tbody>
@@ -2201,6 +2201,11 @@
 <td><a href="https://mp.v.qq.com">腾讯创作平台</a></td>
 <td>面向视频创作者的一站式合作平台，支持短中长视频、电影、短剧、知识等多品类内容入驻运营</td>
 <td><a href="https://hao.withai.homes/sites/mp-v-qq-2736/"><kbd>了解更多</kbd></a></td>
+</tr>
+<tr>
+<td><a href="https://www.getalphadrama.com/">光梦 AlphaDrama</a></td>
+<td>AI短剧与漫剧全流程智能创作SaaS平台，支持小说拆解、剧本改写、角色资产提取、分镜生图生视频与自动混剪（国内镜像 ad.yosweet.cn）</td>
+<td><a href="https://www.getalphadrama.com/"><kbd>了解更多</kbd></a></td>
 </tr>
 </tbody>
 </table>
