@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "site_count": 1342,
+  "site_count": 1343,
   "category_count": 16,
   "categories": [
     {
@@ -2216,7 +2216,7 @@
     },
     {
       "name": "AI写作",
-      "site_count": 109,
+      "site_count": 110,
       "subcategories": [
         {
           "name": "小说创作",
@@ -2947,7 +2947,7 @@
         },
         {
           "name": "阅读总结",
-          "site_count": 22,
+          "site_count": 23,
           "sites": [
             {
               "name": "AI好记",
@@ -2970,6 +2970,18 @@
                 "学习工具"
               ],
               "detail_url": "https://hao.withai.homes/sites/bibigpt-358/"
+            },
+            {
+              "name": "GetYouTubeTranscript",
+              "url": "https://getyoutubetranscript.com",
+              "description": "约1秒获取任意YouTube视频带时间戳的字幕文本，支持TXT/SRT等导出、AI总结、浏览器插件、API与MCP服务",
+              "tags": [
+                "YouTube字幕",
+                "视频转文字",
+                "视频总结",
+                "API"
+              ],
+              "detail_url": "https://getyoutubetranscript.com"
             },
             {
               "name": "ChatAudio",
