@@ -7,7 +7,7 @@
 ## 分类目录
 
 - [AI办公（195）](#category-1)
-- [AI写作（109）](#category-2)
+- [AI写作（110）](#category-2)
 - [AI编程（85）](#category-3)
 - [AI视频（91）](#category-4)
 - [AI绘画（244）](#category-5)
@@ -1083,7 +1083,7 @@
 
 <a id="category-2"></a>
 
-## AI写作（109）
+## AI写作（110）
 
 ### 小说创作（11）
 
@@ -1433,7 +1433,7 @@
 </tbody>
 </table>
 
-### 阅读总结（22）
+### 阅读总结（23）
 
 <table>
 <tbody>
@@ -1446,6 +1446,11 @@
 <td><a href="https://bibigpt.co/r/WQi3O8">BibiGPT</a></td>
 <td>一键总结音视频内容，轻松学习各平台视频</td>
 <td><a href="https://hao.withai.homes/sites/bibigpt-358/"><kbd>了解更多</kbd></a></td>
+</tr>
+<tr>
+<td><a href="https://getyoutubetranscript.com">GetYouTubeTranscript</a></td>
+<td>约1秒获取任意YouTube视频带时间戳的字幕文本，支持TXT/SRT等导出、AI总结、浏览器插件、API与MCP服务</td>
+<td><a href="https://getyoutubetranscript.com"><kbd>了解更多</kbd></a></td>
 </tr>
 <tr>
 <td><a href="https://chataudio.cn">ChatAudio</a></td>
