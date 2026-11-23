@@ -2466,6 +2466,11 @@
 <td>短视频内容运营与直播电商数据分析平台</td>
 <td><a href="https://hao.withai.homes/sites/chanmama-2976/"><kbd>了解更多</kbd></a></td>
 </tr>
+<tr>
+<td><a href="https://www.kavel.ai/">Kavel</a></td>
+<td>Kavel is a free AI video generator and AI image generator — 4K clips with sound, and images you can run without an account or a card.</td>
+<td><a href="https://www.kavel.ai/"><kbd>了解更多</kbd></a></td>
+</tr>
 </tbody>
 </table>
 
