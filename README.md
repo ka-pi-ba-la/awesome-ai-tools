@@ -2227,6 +2227,11 @@
 <table>
 <tbody>
 <tr>
+<td><a href="https://freeimagetovideo.ai/">Free Image to Video</a></td>
+<td>Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark.</td>
+<td><a href="https://freeimagetovideo.ai/"><kbd>了解更多</kbd></a></td>
+</tr>
+<tr>
 <td><a href="https://academy.openai.com">OpenAI学院</a></td>
 <td>OpenAI面向所有人的AI学习社区，普及AI知识赋能更多人</td>
 <td><a href="https://hao.withai.homes/sites/openai-2806/"><kbd>了解更多</kbd></a></td>
