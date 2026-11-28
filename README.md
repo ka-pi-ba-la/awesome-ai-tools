@@ -2508,6 +2508,7 @@
 <td>专为直播带货、知识分享、体育赛事等创作者加速视频剪辑</td>
 <td><a href="https://hao.withai.homes/sites/duanying-2768/"><kbd>了解更多</kbd></a></td>
 </tr>
+<tr><td><a href="https://github.com/fendouai/ViralForge">ViralForge</a></td><td>Open-source CLI and MCP tools for local short-video structure analysis, editable VFML projects, and costed variant scripts.</td><td><a href="https://github.com/fendouai/ViralForge">GitHub</a></td></tr>
 </tbody>
 </table>
 
