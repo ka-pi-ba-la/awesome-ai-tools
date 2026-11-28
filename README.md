@@ -6378,6 +6378,7 @@
 <td>面向全学段教师的人工智能工作台，提供教学方案生成、家校协同与专业成长支持</td>
 <td><a href="https://hao.withai.homes/sites/ai-teacherin-1506/"><kbd>了解更多</kbd></a></td>
 </tr>
+<tr><td><a href="https://github.com/molly554/whiteboard-ai-tutor">Whiteboard AI Tutor</a></td><td>Open-source whiteboard lesson playback and a structured drawing protocol with model-comparison benchmarks; new lessons require user-provided API keys.</td><td><a href="https://github.com/molly554/whiteboard-ai-tutor">GitHub</a></td></tr>
 </tbody>
 </table>
 
